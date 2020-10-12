@@ -4,4 +4,4 @@ Robot Logic
   Using the provided files, I designed the algorithm for the robot to:
     - Detect where the debris is
     - Determine which of the debris is closer within the radius of the robot
-    - Follow a calculated path to it, while not colliding with other robots in the vicinity 
+    - Follow a calculated path to it, while not colliding with other robots in the vicinity
